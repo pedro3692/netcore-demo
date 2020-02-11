@@ -1,1 +1,8 @@
 CourseAssets
+.vscode
+.vs
+obj
+bin
+appsettings.json
+*.db
+*.user
