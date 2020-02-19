@@ -38,6 +38,7 @@ namespace Application.Activities
                     Description = request.Description,
                     Category = request.Category,
                     Date = request.Date,
+                    City = request.City,
                     Venue = request.Venue
                 };
 
